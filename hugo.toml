@@ -1,0 +1,9 @@
+baseURL = "https://ourxthreee.github.io/"
+languageCode = "en-us"
+title = "Ourxthreee Gallery"
+theme = "gallery"
+
+[params]
+  title = "Ourxthreee Gallery"
+  description = "Photo gallery powered by Hugo"
+
