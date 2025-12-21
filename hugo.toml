@@ -1,6 +1,6 @@
 baseURL = "https://ourxthreee.github.io/"
 languageCode = "en-us"
-title = "Ourxthreee Gallery"
+title = "Gallery"
 theme = "gallery"
 copyright = "© ourxthreee"
 enableRobotsTXT = true
